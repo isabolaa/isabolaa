@@ -1,4 +1,4 @@
-🎓 **Estudiante de Ingeniería Audiovisual Computacional en la UPF | Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**
+🎓 **Estudiante de Ingeniería Audiovisual Computacional en la UPF | Técnico Superior en Desarrollo de Aplicaciones Multiplataforma | Técnico SMR**
 
 ### 💻 Lenguajes y Herramientas
 
@@ -16,12 +16,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" title=".NET" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="40" height="40" alt="XML" title="XML" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" title="Supabase" />
 </p>
 
-**Game Dev y Otras Herramientas:**  
+**Sistemas Operativos, Game Dev y Otras Herramientas:**  
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows" title="Windows (Servidor y Usuario)" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux (Servidor y Usuario)" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40" alt="Godot" title="Godot" /> &nbsp;
   <img src="https://cdn.simpleicons.org/odoo/714B67" width="40" height="40" alt="Odoo" title="Odoo" />
 </p>
